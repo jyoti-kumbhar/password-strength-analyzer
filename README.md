@@ -26,7 +26,7 @@ A cybersecurity-focused web application that analyzes password strength using:
 
 ## Live Demo
 
-(Add deployment link here)
+https://password-strength-analyzer-ochre.vercel.app/
 
 ## Author
 
